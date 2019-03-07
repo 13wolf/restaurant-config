@@ -13,12 +13,6 @@ jhipster:
         authentication:
             jwt:
                 base64-secret: aGVsbG93b3JsZC0xM3dvbGYtd2l0aC1yZXN0YXVyYW50LXJlZ2lzdHJ5LXNlcnZpY2Utd2FyLWRlcGxveS1mb3Itc2VjdXJpdHk=
-spring:
-  profiles:
-    active: prod,uaa
-  security:
-    user:
-      password: DkUQNRo8RYtkkEY9
                   
 # Enable /management/logfile endpoint for all apps
 logging:
